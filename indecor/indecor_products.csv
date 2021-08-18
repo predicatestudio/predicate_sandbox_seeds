@@ -1,16 +1,16 @@
-External ID,Name,Product Type,Internal Reference,Barcode,Sales Price,Cost,Weight,Sales Description,image,Visible on Current Website,,,
-retro_funky_chair,Retro Funky Chair,consumable,deco-0,,116.0,92.80000000000001,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/a1.jpg,True,,,
-wooden_chair_&_table_set,Wooden Chair & Table Set,consumable,deco-1,,178.8,143.04000000000002,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/a2.jpg,True,,,
-minimalist_white_chair,Minimalist White Chair,consumable,deco-2,,83.0,66.4,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/a3.jpg,True,,,
-stylish_wooden_chair,Stylish Wooden Chair,consumable,deco-3,,428.8,343.04,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/a4.jpg,True,,,
-custom_wooden_chair_&_table_set,Custom Wooden Chair & Table Set,consumable,deco-4,,550.0,440.0,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/a5.jpg,True,,,
-kitchen_table_set,Kitchen Table Set,consumable,deco-5,,120.0,96.0,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/a6.jpg,True,,,
-slick_home_office_desk,Slick Home Office Desk,consumable,deco-6,,430.0,344.0,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/a7.jpg,True,,,
-wooden_slab_table,Wooden Slab Table,consumable,deco-7,,178.8,143.04000000000002,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/a8.jpg,True,,,
-home_office_chair,Home Office Chair,consumable,deco-8,,75.0,60.0,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/a9.jpg,True,,,
-custom_chair,Custom Chair,consumable,deco-9,,416.0,332.8,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/b1.jpg,True,,,
-modern_black_chair,Modern Black Chair,consumable,deco-10,,178.8,143.04000000000002,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/b2.jpg,True,,,
-retro_blue_chair,Retro Blue Chair,consumable,deco-11,,383.0,306.40000000000003,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/b3.jpg,True,,,
-slick_wooden_table,Slick Wooden Table,consumable,deco-12,,228.8,183.04000000000002,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/b4.jpg,True,,,
-functional_chair,Functional Chair,consumable,deco-13,,45.0,36.0,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/b5.jpg,True,,,
-modern_chair_&_table_set,Modern Chair & Table Set,consumable,deco-14,,120.0,96.0,,lorem ipsum,https://d3rltts0vn908j.cloudfront.net/assets/items/b6.jpg,True,,,
+External ID,Name,Product Type,Internal Reference,Barcode,Sales Price,Cost,Weight,Sales Description,image,Visible on Current Website
+retro_funky_chair,Retro Funky Chair,consumable,deco-0,,116.0,92.80000000000001,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/retro_funky_chair,True
+wooden_chair_&_table_set,Wooden Chair & Table Set,consumable,deco-1,,178.8,143.04000000000002,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/wooden_chair_&_table_set,True
+minimalist_white_chair,Minimalist White Chair,consumable,deco-2,,83.0,66.4,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/minimalist_white_chair,True
+stylish_wooden_chair,Stylish Wooden Chair,consumable,deco-3,,428.8,343.04,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/stylish_wooden_chair,True
+custom_wooden_chair_&_table_set,Custom Wooden Chair & Table Set,consumable,deco-4,,550.0,440.0,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/custom_wooden_chair_&_table_set,True
+kitchen_table_set,Kitchen Table Set,consumable,deco-5,,120.0,96.0,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/kitchen_table_set,True
+slick_home_office_desk,Slick Home Office Desk,consumable,deco-6,,430.0,344.0,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/slick_home_office_desk,True
+wooden_slab_table,Wooden Slab Table,consumable,deco-7,,178.8,143.04000000000002,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/wooden_slab_table,True
+home_office_chair,Home Office Chair,consumable,deco-8,,75.0,60.0,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/home_office_chair,True
+custom_chair,Custom Chair,consumable,deco-9,,416.0,332.8,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/custom_chair,True
+modern_black_chair,Modern Black Chair,consumable,deco-10,,178.8,143.04000000000002,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/modern_black_chair,True
+retro_blue_chair,Retro Blue Chair,consumable,deco-11,,383.0,306.40000000000003,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/retro_blue_chair,True
+slick_wooden_table,Slick Wooden Table,consumable,deco-12,,228.8,183.04000000000002,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/slick_wooden_table,True
+functional_chair,Functional Chair,consumable,deco-13,,45.0,36.0,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/functional_chair,True
+modern_chair_&_table_set,Modern Chair & Table Set,consumable,deco-14,,120.0,96.0,,lorem ipsum,https://github.com/predicatestudio/ps-sandbox-seeds/raw/main/indecor/images/modern_chair_&_table_set,True
